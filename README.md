@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Alejandro Guerrero</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate FullStack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielguerrero03&label=Profile%20views&color=0e75b6&style=flat" alt="danielguerrero03" /> </p>
 
