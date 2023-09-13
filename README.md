@@ -1,9 +1,12 @@
+<div align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielguerrero03&label=Profile%20views&color=0e75b6&style=flat" alt="danielguerrero03" /> </p>
+<div/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Daniel Alejandro Guerrero</h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielguerrero03&label=Profile%20views&color=0e75b6&style=flat" alt="danielguerrero03" /> </p>
+
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
